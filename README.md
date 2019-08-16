@@ -48,7 +48,7 @@ new DialogBuilder(this)
                 .setDescriptionFont(Typeface.createFromAsset(getAssets(), "vip_rawy_regular.otf")) // Change Typeface Font For Description
                 .setButtonsFont(Typeface.createFromAsset(getAssets(), "vip_rawy_regular.otf")) // Change Typeface Font For Buttons
                 .setDialogBackgroundDrawable(R.drawable.dialog_background)// Change Dialog Background Drawable
-                .setIcon(DialogBuilder.WARNING_ICON) // set Icon(DialogBuilder.SUCCESS_ICON || DialogBuilder.WARNING_ICON ||              DialogBuilder.ERROR_ICON)
+                .setIcon(DialogBuilder.WARNING_ICON) // set Icon(DialogBuilder.SUCCESS_ICON || DialogBuilder.WARNING_ICON || DialogBuilder.ERROR_ICON)
                 .setAnimation(DialogBuilder.FROM_BOTTOM)// set Animation (DialogBuilder.FROM_BOTTOM || DialogBuilder.FROM_TOP)
                 .setPositiveListener("OK", new DialogClickListener() { // Positive Button
                     @Override
@@ -65,5 +65,6 @@ new DialogBuilder(this)
                     }
                 })
                 .build().show();
+
 
 ```
