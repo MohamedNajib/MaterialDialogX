@@ -6,7 +6,7 @@ MaterialDialogX is a simple and beautiful Base Dialog which allows to create sim
 
 ### MaterialDialogX library
 ---
-![s](https://user-images.githubusercontent.com/50467719/63168395-4e89d900-c034-11e9-9d73-72348250c551.PNG)![e](https://user-images.githubusercontent.com/50467719/63168420-5e092200-c034-11e9-9d8f-00a5cc1e419c.PNG)![n](https://user-images.githubusercontent.com/50467719/63168438-6b261100-c034-11e9-99de-5c0439e24c75.PNG)![e](https://user-images.githubusercontent.com/50467719/63168402-547fba00-c034-11e9-894a-86df0278b30b.PNG)
+![s](https://user-images.githubusercontent.com/50467719/63168395-4e89d900-c034-11e9-9d73-72348250c551.PNG)![e](https://user-images.githubusercontent.com/50467719/63168420-5e092200-c034-11e9-9d8f-00a5cc1e419c.PNG)![w](https://user-images.githubusercontent.com/50467719/63168537-b2ac9d00-c034-11e9-9d89-f20f878e3f2c.PNG)![n](https://user-images.githubusercontent.com/50467719/63168438-6b261100-c034-11e9-99de-5c0439e24c75.PNG)
 
 ### How to integrate the ToastMessag library in your app?
 ---
